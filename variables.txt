@@ -1,0 +1,9 @@
+food = "yummy"
+is_delicious = true
+food = "gross"
+num2 = 2
+num7 = 8
+quotient = num7/num2
+songs = ["Yeah!", "Trap Queen", "Ms.Jackson"]
+songs.shift
+songs.length
