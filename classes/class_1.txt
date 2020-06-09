@@ -1,0 +1,12 @@
+Burger
+Attributes:
+number_of_patties (interger)
+lettuce (boolean)
+toppings (array)
+buns (boolean)
+
+Methods
+add_patty (number_of_patties + 1)
+remove_lettuce (change lettuce to false)
+add_topping (.push method to add topping to toppings array)
+remove_buns (change buns to false)
