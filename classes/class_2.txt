@@ -1,0 +1,13 @@
+Employee
+
+Attributes:
+name_on_nametag (string)
+employed (boolean)
+start_time (string)
+schedule (array)
+
+Methods
+change_nametag_name (changes the name_on_nametag)
+fire_employee (changes employed to false)
+change_start_time (changes start_time)
+change_schedule (add or remove from schedule array)
