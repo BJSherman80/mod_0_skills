@@ -1,0 +1,13 @@
+JoeBob
+
+Attributes:
+name_on_nametag = "JoeBob"
+employed = true
+start_time = "5:00 pm"
+schedule = ["Monday", "Tuesday", "Friday"]
+
+Methods
+change_nametag_name: name_on_nametag = "Tarzan"
+fire_employee: employed = false
+change_start_time: start_time = "none" #he's fired
+change_schedule: schedule= ["Friday"] #his last day
