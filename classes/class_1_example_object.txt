@@ -2,9 +2,9 @@ TexasRoadhouseTrippleBaconator
 
 Attributes:
 number_of_patties = 3
-lettuce = true
+has_lettuce = true
 toppings = ["bacon", "pickles", "onions"]
-buns = true
+has_buns = true
 
 Methods
 add_patty: 3 + 1 = 4

@@ -2,9 +2,9 @@ Employee
 
 Attributes:
 name_on_nametag (string)
-employed (boolean)
+is_employed (boolean)
 start_time (string)
-schedule (array)
+scheduled_days (array)
 
 Methods
 change_nametag_name (changes the name_on_nametag)

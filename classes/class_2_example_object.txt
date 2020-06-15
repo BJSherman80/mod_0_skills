@@ -2,9 +2,9 @@ JoeBob
 
 Attributes:
 name_on_nametag = "JoeBob"
-employed = true
+is_employed = true
 start_time = "5:00 pm"
-schedule = ["Monday", "Tuesday", "Friday"]
+scheduled_days = ["Monday", "Tuesday", "Friday"]
 
 Methods
 change_nametag_name: name_on_nametag = "Tarzan"

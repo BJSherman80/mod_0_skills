@@ -1,9 +1,9 @@
 Burger
 Attributes:
 number_of_patties (interger)
-lettuce (boolean)
+has_lettuce (boolean)
 toppings (array)
-buns (boolean)
+has_buns (boolean)
 
 Methods
 add_patty (number_of_patties + 1)
